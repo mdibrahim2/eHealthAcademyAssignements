@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>MDI CODING BLOG</title>
+        <style>
+   .header{
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+
+   }
+  .container{
+    width: 70%;
+    margin-left:10%;
+    right:10%;
+    }
+   .place{
+     text-align: left;
+     text-weight:bold;
+
+   }
+   .place{
+     text-align: left;
+     font-size:24px;
+     color:
+     text-weight:bold;
+
+   }
+
+   .head{
+     text-align: center;
+     font-size:18px;
+     color:blue;
+     text-weight:bold;
+
+   }
+   span{
+     text-weight:bold;
+     color:blue;
+
+   }
+   .subscribe{
+     color:red;
+     font-weight:bold;
+     padding:5px;
+     border:2px ridge red;
+     width:200px;
+   }
+   p{
+
+     font-family:sen-serif;
+     font-size:14px;
+     line-height:30px;
+   }
+
+   .image{
+
+     width: 100%;
+     height: 300px;
+
+   }
+   .img{
+     margin-left: 5%;
+   }
+   .footer{
+     margin-top:30px;
+     text-align: center;
+
+     width: 100%;
+     height: 100px;
+     text-weight:bold;
+     color: white;
+     line-height: 100px;
+     background-color: black;
+
+   }
+         </style>
+    </head>
+    <body>
+<div class="container">
+    <h1 class="header">Welcome to MDI Live Coding Journey</h1>
+<img src="https://i1.wp.com/thedatascientist.com/wp-content/uploads/2019/06/what-is-data-science.jpg?resize=1024%2C576&ssl=1" class="image" alt="data Science">
+
+<h2 class="place"> Contents</h2>
+
+<ul>
+<li><a href="#"> Data Science Taking The World</a></li>
+<li><a href="#"> Flutter The future of Android</a></li>
+<li> <a href="#">Google Lounch New admob Policy</a> </li>
+</ul>
+<h2 class="head"> Latest Update`s</h2>
+<div class="post">
+  <h2 class="place"> Data Science Taking The World</h2>
+
+<img src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/12/Shakshuka-19.jpg" class="image" alt="venice">
+
+<p>
+  To guide you through this jungle of information and advice, DataCamp has revamped its <span class="span">"Become a Data Scientist in 8 Steps"</span> infographic : it now provides an updated view of the eight steps
+   that you need to to through to learn data science. Some of these eight steps will be easier for some than for others, depending on background and personal experience, among other factors.
+
+The goal, however, is still to make this a visual guide for everyone that is interested in
+learning data science or for everyone that has already become a data scientist or part of a data science team but wants some additional resources for further perfection.
+  </p>
+  </div>
+
+  <div class="post">
+    <h2 class="place"> Flutter The Future of andorid</h2>
+
+  <img src="https://miro.medium.com/max/700/1*TkNd1PwwwdBi9Z3kdG5Hng.png" class="image" alt="flutter">
+
+  <p>
+    I started native iOS development in 2010. There was no automatic reference counting (ARC) and you have to use Objective-C as your primary language. I created my first app (ABC POP) in 7 days and after that I was hooked. All I wanted to do is native iOS development.
+  Unfortunately, most of the companies in Houston were not interested in native iOS apps. These companies were in the business of oil/gas, energy, medicine, finance etc. I would sit in meetings where they make the case for cross platform frameworks like PhoneGap, Ionic, Xamarin etc. This left me frustrated as I wanted to create native iOS apps.
+  It was only after I saw things from their point of view that I realize that these companies are NOT in the business of making apps. They are simply using mobile as a medium to channel information to their internal employees. They wanted a bigger bang for their buck and did not wanted to spend resources on creating and maintaining two
+  separate codebases and managing two different set of teams.  </p>
+    </div>
+
+
+    <div class="post">
+      <h2 class="place">Google Lounch New admob Policy</h2>
+
+    <img src="https://ppc.land/wp-content/uploads/2018/05/adsense-admob-dfp-logos.png" class="image" alt="google">
+
+    <p>
+    All publishers are required to adhere to the following policies, so please read them carefully. If you fail to comply with these policies without permission from Google, we reserve the right to disable ad serving to your app and/or disable your AdMob account at any time. If your account is disabled,
+    you will not be eligible for further participation in the AdSense and/or AdMob program(s).    </p>
+    
+
+<hr>
+<div class="subscribe"><a href="#">Subscribe to our  daily post</a></div>
+    </div>
+
+<div class="footer">
+  Alright Reserved MDI Travel and Tour 2020
+</div>
+</div>
+
+    </body>
+</html>
