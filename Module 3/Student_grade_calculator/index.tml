@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport">
+    <title> Second Challenge</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+      var score = prompt('Hello Student! Please Enter Your Score between 1-100\?');
+       var grade;
+      if(score>=70){
+        grade="A";
+          document.write("<h1>Your Grade is="+ " "+ grade+'</h1>')
+      }
+      else if(score>=50){
+          grade="C";
+          document.write("<h1>Your Grade is="+ " "+ grade+'</h1>')
+      }
+
+      else{
+          grade="F";
+          document.write("<h1>Your Grade is="+ " "+ grade+'</h1>')
+      }
+      d
+    </script>
+</body>
